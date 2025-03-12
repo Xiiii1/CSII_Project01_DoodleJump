@@ -103,16 +103,5 @@ If you want to play again, repeat steps 4-6 in terminal 1.
 - The score is based on the highest pixel height reached.
 - A black hole will instantly end the game if Doodle touches it.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - [Doodle Jump](https://en.wikipedia.org/wiki/Doodle_Jump) - The original game
-- [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library used for graphics and window handling
-
-## Contact
-- **GitHub**: [Xiiii1](https://github.com/Xiiii1)
-
